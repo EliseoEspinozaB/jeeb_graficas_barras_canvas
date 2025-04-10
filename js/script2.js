@@ -5,7 +5,7 @@ const ctx  = canvas.getContext("2d");
 //DATOS O VALORES DE LA GRAFICA
 const labels = ["Baloncesto","Beisbol","Futbol"];
 const values = [300,200,400];
-const colors = ["#E74C3C","3498DB","E67E22"];
+const colors = ["#E74C3C","#3498DB","#E67E22"];
 
 //
 const charWidth = canvas.width - 100; //AREA HORIZONTAL UTILIZABLE DEL GRAFICO
